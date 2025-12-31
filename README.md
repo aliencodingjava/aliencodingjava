@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @aliencodingjava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Privacy Policy
 
-<!---
-aliencodingjava/aliencodingjava is a ✨ special ✨ repository because its `README.md` (testing... sorry guys) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This app uses Facebook Login for authentication.
+
+## Information We Collect
+When you sign in using Facebook, we may collect:
+- Name
+- Email address
+- Profile picture
+- Facebook user ID
+
+## How We Use Your Information
+This information is used only to create and manage your user account and to provide app functionality.
+
+## Data Storage
+All user data is securely stored using Supabase.
+
+## Data Sharing
+We do not sell, trade, or share personal data with third parties.
+
+## Data Deletion
+You may request deletion of your data at any time by contacting:
+
+📧
+
+All data will be permanently deleted upon request.
+
+## Contact >> issue 
+Email:
