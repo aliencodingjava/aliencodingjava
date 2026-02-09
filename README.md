@@ -3,11 +3,11 @@
 This app uses Facebook Login for authentication.
 
 ## Information We Collect
-When you sign in using Facebook, we may collect:
+When you sign in using your email, we may collect:
 - Name
 - Email address
 - Profile picture
-- Facebook user ID
+- User ID
 
 ## How We Use Your Information
 This information is used only to create and manage your user account and to provide app functionality.
